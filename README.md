@@ -197,7 +197,7 @@ Mission:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/amitchiku/amitchiku/main/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="https://www.vixalien.com/images/posts/2022/contributions.webp" />
 
 </p>
 
