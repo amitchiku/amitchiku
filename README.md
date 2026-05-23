@@ -1,16 +1,24 @@
-<!-- ========================= PREMIUM HEADER ========================= -->
+<!-- ========================= ULTRA PREMIUM HEADER ========================= -->
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0ea5e9,25:38bdf8,50:7dd3fc,75:22d3ee,100:06b6d4&text=Amit%20Nayak&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=🚀%20Full%20Stack%20Developer%20|%20Backend%20Engineer%20|%20Future%20Cloud%20Engineer&descAlignY=60&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=350&text=Amit%20Nayak&fontAlign=50&fontAlignY=38&color=0:0f172a,10:0ea5e9,30:38bdf8,50:7dd3fc,70:22d3ee,90:06b6d4,100:0f172a&fontColor=ffffff&fontSize=65&animation=fadeIn&desc=🚀%20Full%20Stack%20Developer%20•%20Backend%20Engineer%20•%20Future%20Cloud%20Engineer&descAlignY=60&descSize=22" />
 
 </p>
 
-<!-- ========================= ANIMATED TYPING ========================= -->
+<!-- ========================= ANIMATED CYBER LINE ========================= -->
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=1100&height=120&lines=🚀+Full+Stack+Developer+(Django+%2B+MERN);⚡+Backend+Architecture+%26+Scalable+Systems;☁️+Future+Cloud+Engineer+(AWS+%2B+DevOps);🔥+Building+Production-Level+Applications;💡+Always+Learning+Modern+Technologies" />
+<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-b7d0-3f3b1e6b0b1d.gif" width="100%" />
+
+</p>
+
+<!-- ========================= TYPING SVG ========================= -->
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=1200&height=140&lines=⚡+Full+Stack+Developer+(Django+%2B+MERN);🚀+Backend+Architecture+%26+API+Engineering;☁️+AWS+%2B+DevOps+Enthusiast;🔥+Building+Scalable+Production-Level+Systems;💡+Passionate+About+Modern+Technologies" />
 
 </p>
 
@@ -18,26 +26,44 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/amitchiku?style=for-the-badge&logo=github&color=38BDF8&labelColor=0D1117" />
+<img src="https://img.shields.io/github/followers/amitchiku?style=for-the-badge&logo=github&labelColor=0f172a&color=38bdf8" />
 
-<img src="https://img.shields.io/github/stars/amitchiku?style=for-the-badge&logo=github&color=facc15&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/amitchiku?style=for-the-badge&logo=github&labelColor=0f172a&color=facc15" />
 
-<img src="https://komarev.com/ghpvc/?username=amitchiku&style=for-the-badge&color=0ea5e9" />
+<img src="https://komarev.com/ghpvc/?username=amitchiku&style=for-the-badge&color=38bdf8" />
 
-<img src="https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge&logo=opensourceinitiative&labelColor=0f172a" />
+
+<img src="https://img.shields.io/badge/Backend-Engineer-38BDF8?style=for-the-badge&logo=codeforces&labelColor=0f172a" />
 
 </p>
 
 ---
 
-# 🧠 About Me
+<!-- ========================= MATRIX ANIMATION ========================= -->
 
-<img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<p align="center">
 
-```yaml
+<img src="https://user-images.githubusercontent.com/74038190/216655810-cf4d7bed-52aa-4740-8c67-183247fd58b7.gif" width="85%" />
+
+</p>
+
+---
+
+# ⚡ ABOUT ME
+
+<img align="right" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+
+```yaml id="r2fd1l"
 Name: Amit Nayak
-Role: Full Stack Developer
-Education: B.Tech CSE (3rd Year)
+
+Role:
+  - Full Stack Developer
+  - Backend Engineer
+  - Future Cloud Engineer
+
+Education:
+  - B.Tech CSE (3rd Year)
 
 Specialization:
   - Django
@@ -45,27 +71,31 @@ Specialization:
   - Backend Systems
   - API Development
 
-Current Focus:
-  - Production-Level Applications
-  - Scalable Architecture
-  - Cloud Computing
-  - DevOps
-
-Learning:
+Current Learning:
   - AWS
   - Docker
-  - CI/CD
   - Kubernetes
+  - DevOps
 
-Goal:
-  Software Engineer → Cloud Engineer
+Mission:
+  Build scalable cloud-native systems.
 ```
 
 ---
 
-# 🚀 Tech Arsenal
+<!-- ========================= NEON DIVIDER ========================= -->
 
-## 🎨 Frontend Development
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216656965-8b5d4a4b-bdb8-4d0e-9fd5-c44f0d2d8d3d.gif" width="100%" />
+
+</p>
+
+---
+
+# 🚀 TECH STACK
+
+## 🎨 FRONTEND
 
 <p align="center">
 
@@ -75,7 +105,7 @@ Goal:
 
 ---
 
-## ⚙️ Backend Development
+## ⚙️ BACKEND
 
 <p align="center">
 
@@ -85,7 +115,7 @@ Goal:
 
 ---
 
-## 🗄️ Databases
+## 🗄️ DATABASES
 
 <p align="center">
 
@@ -95,7 +125,7 @@ Goal:
 
 ---
 
-## ☁️ Cloud & DevOps
+## ☁️ CLOUD & DEVOPS
 
 <p align="center">
 
@@ -105,7 +135,7 @@ Goal:
 
 ---
 
-## 🛠️ Tools & Platforms
+## 🛠️ TOOLS
 
 <p align="center">
 
@@ -115,36 +145,27 @@ Goal:
 
 ---
 
-# 🔥 Backend Expertise
-
-<div align="center">
-
-| 💡 Technology          | 🚀 Expertise |
-| ---------------------- | ------------ |
-| REST APIs              | Advanced     |
-| Authentication Systems | Advanced     |
-| JWT & Security         | Advanced     |
-| WebSockets             | Intermediate |
-| Redis Caching          | Intermediate |
-| Payment Integration    | Intermediate |
-| Cloudinary             | Advanced     |
-| SMTP Services          | Advanced     |
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
+<!-- ========================= CODING GIF ========================= -->
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=amitchiku&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50f6c5d2b.gif" width="70%" />
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 🏆 GITHUB TROPHIES
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=amitchiku&theme=algolia&no-frame=true&row=1&column=7&margin-w=15" />
+
+</p>
+
+---
+
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
 
@@ -162,7 +183,7 @@ Goal:
 
 ---
 
-# 📈 Contribution Activity Graph
+# 📈 CONTRIBUTION GRAPH
 
 <p align="center">
 
@@ -172,7 +193,7 @@ Goal:
 
 ---
 
-# 🌌 3D Contribution Calendar
+# 🌌 3D CONTRIBUTION GRAPH
 
 <p align="center">
 
@@ -182,7 +203,7 @@ Goal:
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
 
@@ -192,17 +213,19 @@ Goal:
 
 ---
 
-# 🚀 Featured Projects
+<!-- ========================= FEATURED PROJECTS ========================= -->
+
+# 🚀 FEATURED PROJECTS
 
 ## 💬 Real-Time Chat Application
 
 ✨ Features:
 
-* WebSocket-based messaging
-* Authentication system
-* Private chats
-* Optimized backend APIs
-* Real-time scalable architecture
+* WebSocket Communication
+* Real-Time Messaging
+* Authentication System
+* Optimized Backend APIs
+* Scalable Architecture
 
 ---
 
@@ -210,12 +233,11 @@ Goal:
 
 ✨ Features:
 
-* Django + React Full Stack
-* Product Management
-* Secure Authentication
+* Django + React
 * Razorpay & Stripe Integration
-* Cloudinary Image Storage
-* Admin Dashboard
+* Product Management
+* Cloudinary Storage
+* Secure Authentication
 
 ---
 
@@ -223,10 +245,10 @@ Goal:
 
 ✨ Features:
 
-* Role-Based Access Control
-* Video & Course Management
-* Dashboard System
-* Optimized Backend Architecture
+* Role-Based Access
+* Video Streaming
+* Admin Dashboard
+* Optimized Backend APIs
 
 ---
 
@@ -234,14 +256,16 @@ Goal:
 
 ✨ Features:
 
-* Third-party API Integration
+* API Integrations
 * Dynamic Rendering
-* Optimized API Fetching
-* Interactive UI Components
+* Fast Data Fetching
+* Interactive UI
 
 ---
 
-# ☁️ Cloud Engineering Journey
+<!-- ========================= CLOUD SECTION ========================= -->
+
+# ☁️ CLOUD ENGINEERING JOURNEY
 
 <p align="center">
 
@@ -249,28 +273,30 @@ Goal:
 
 </p>
 
-```yaml
-Current Learning:
+```yaml id="vwrymn"
+Learning:
   - AWS EC2
   - AWS S3
-  - IAM
   - Lambda
+  - IAM
   - Docker
   - Kubernetes
   - CI/CD
-  - Linux Administration
+  - Linux
 ```
 
-🎯 Mission:
-Build and deploy scalable cloud-native applications.
+🎯 Goal:
+Become Cloud Engineer and deploy scalable distributed systems.
 
 ---
 
-# 🧠 Core Strengths
+<!-- ========================= CORE STRENGTHS ========================= -->
+
+# 🧠 CORE STRENGTHS
 
 <div align="center">
 
-| 🏗️ Domain             | ⚡ Level      |
+| 🚀 Domain              | ⚡ Expertise  |
 | ---------------------- | ------------ |
 | Backend Architecture   | Advanced     |
 | API Engineering        | Advanced     |
@@ -278,13 +304,23 @@ Build and deploy scalable cloud-native applications.
 | Real-Time Systems      | Intermediate |
 | Payment Integrations   | Intermediate |
 | Cloud Engineering      | Learning     |
-| DevOps Fundamentals    | Learning     |
+| DevOps                 | Learning     |
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+<!-- ========================= PACMAN ANIMATION ========================= -->
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+# 🌐 CONNECT WITH ME
 
 <p align="center">
 
@@ -304,7 +340,7 @@ Build and deploy scalable cloud-native applications.
 
 ---
 
-# 🎵 Spotify Playing
+# 🎵 SPOTIFY
 
 <p align="center">
 
@@ -314,7 +350,7 @@ Build and deploy scalable cloud-native applications.
 
 ---
 
-# 💡 Random Developer Quote
+# 💡 RANDOM DEV QUOTE
 
 <p align="center">
 
@@ -324,27 +360,27 @@ Build and deploy scalable cloud-native applications.
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2026 TARGETS
 
-```yaml
+```yaml id="ovh68y"
 Goals:
   - Master Backend Engineering
-  - Become AWS Cloud Engineer
   - Learn System Design
+  - Become AWS Cloud Engineer
   - Build SaaS Products
+  - Master DevOps
   - Contribute to Open Source
-  - Master DevOps & Deployment
 ```
 
 ---
 
-# ⚡ Fun Fact
+<!-- ========================= FINAL ANIMATION ========================= -->
 
-```yaml
-Fun Fact:
-  "I don't just build projects —
-   I engineer scalable systems."
-```
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216656967-d1cf9a44-64e0-4b58-b84e-ab5cdd0c0e1c.gif" width="100%" />
+
+</p>
 
 ---
 
@@ -352,6 +388,7 @@ Fun Fact:
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:0ea5e9,25:38bdf8,50:7dd3fc,75:22d3ee,100:06b6d4" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0f172a,20:0ea5e9,40:38bdf8,60:7dd3fc,80:22d3ee,100:06b6d4" />
 
 </p>
+
