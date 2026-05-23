@@ -207,7 +207,7 @@ Mission:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/amitchiku/amitchiku/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://user-images.githubusercontent.com/7980426/78958159-27d55280-7a9c-11ea-9b08-8b5d7df31d7a.png" />
 
 </p>
 
