@@ -344,7 +344,7 @@ Become Cloud Engineer and deploy scalable distributed systems.
 
 <p align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31x2xxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=38bdf8&bar_color_cover=false" />
+<img src="https://tse1.mm.bing.net/th/id/OIP.bw9jyXz0BS1M3D_WAJy0hwHaHa?pid=Api&P=0&h=180?uid=31x2xxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=38bdf8&bar_color_cover=false" />
 
 </p>
 
