@@ -111,7 +111,7 @@ Learning:
 
 <p align="center">
   <!-- Added v=1 to force bypass GitHub's image cache -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatika60&theme=react-dark&hide_border=true&v=1" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitchiku&theme=react-dark&hide_border=true&v=1" width="100%" alt="Activity Graph" />
 </p>
 
 ---
