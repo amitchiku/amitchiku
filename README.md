@@ -110,7 +110,8 @@ Learning:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amitchiku/amitchiku/output/github-contribution-grid-snake.svg" />
+  <!-- Added v=1 to force bypass GitHub's image cache -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatika60&theme=react-dark&hide_border=true&v=1" width="100%" alt="Activity Graph" />
 </p>
 
 ---
